@@ -1,4 +1,5 @@
 -- Original Script by Shadow Mario
+-- man i realised i know how to code but idk how fnf works lmaoo -obamacat
 trailEnabledDad = false;
 trailEnabledBF = false;
 timerStartedDad = false;

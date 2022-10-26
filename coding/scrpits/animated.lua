@@ -13,7 +13,4 @@ end
 
 function onUpdate()
     setProperty('icon.x', getProperty('iconP2.x'))
-    --you can remove these below to reduce lag but then you cant modchart things like camHUD.angle
-    setProperty('icon.y', getProperty('iconP2.y'))
-    setProperty('icon.angle', getProperty('iconP2.angle'))
 end
